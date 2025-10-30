@@ -8,7 +8,7 @@ A PHP + MySQL based local food delivery system. Includes user and admin panels.
 1. Upload files to server (public/ is web root).
 2. Import database file: database/food_delivery.sql
 3. Update DB constants in includes/config.php
-4. Visit: http://your-domain-or-localhost/public/
+4. 
 
 ## Default credentials
 - Admin: khachuk@gmail.com/kha123
@@ -103,7 +103,7 @@ food_delivery/
 
 5. **Run the Project**
    ```
-   http://localhost/food_delivery/public/
+   http://localhost/food_delivery/public/index.php
    ```
 
 ---
@@ -144,4 +144,5 @@ food_delivery/
 ### 📄 License
 
 This project is open-source for learning and personal use.  
+
 Feel free to modify or expand it for your own local delivery service.
