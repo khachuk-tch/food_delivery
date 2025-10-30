@@ -1,0 +1,45 @@
+
+{
+  "name": "Khachuk Food",
+  "short_name": "KhachukFood",
+  "description": "Your local food delivery service",
+  "start_url": "/food_delivery/public/index.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6347",
+  "orientation": "portrait",
+
+  "icons": [
+    {
+      "src": "/food_delivery/public/assets/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/food_delivery/public/assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+
+  "screenshots": [
+    {
+      "src": "/food_delivery/public/screenshots/desktop-view.png",
+      "sizes": "512x384",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/food_delivery/public/screenshots/mobile-view.png",
+      "sizes": "360x640",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
+
+
+
+  
